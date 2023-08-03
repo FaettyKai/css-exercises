@@ -1,0 +1,19 @@
+
+.class {
+  background-color: rgba(255, 0, 0, 0.3);
+  font-fanily: Verdana, "Dejavu sans", Sans-serif;
+}
+
+#Number 2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+#Number 4 {
+  backgrounnd-color: rgba(0, 255, 0, 0.3);
+  font-weight: bold; 
+}
